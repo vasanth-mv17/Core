@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import app.thelaunchclub.myapplication22.R;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
